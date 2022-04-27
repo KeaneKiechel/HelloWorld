@@ -11,6 +11,9 @@ public class main {
 		t1.name = "Yassin Mohammad";
 		t1.idNumber = "2020-0069";
 		
+		System.out.println("Student's Name: " + st1.idNumber + " " + st1.name);
+		System.out.println("Teacher's Name: " + t1.idNumber + " " + t1.name);
+		
 	}
 }
 
