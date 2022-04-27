@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="870975df-0a5f-4c9a-b4ca-a695207a2bcc" name="Default Changelist" comment="raffy me student class nevermind kinsa si mohamamd ba or waht" />
+    <list default="true" id="870975df-0a5f-4c9a-b4ca-a695207a2bcc" name="Default Changelist" comment="mohammad ni siya kunuhay" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651074188060</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mohammad ni siya kunuhay">
+      <created>1651074339648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651074339649</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +100,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="raffygraphy1/mohammadBranch1" />
+                        <option value="mohammadBranch1" />
                       </list>
                     </value>
                   </entry>
@@ -141,6 +148,7 @@
     <MESSAGE value="Hello im commiting student class" />
     <MESSAGE value="pretends mohammad commiting the teacher class" />
     <MESSAGE value="raffy me student class nevermind kinsa si mohamamd ba or waht" />
-    <option name="LAST_COMMIT_MESSAGE" value="raffy me student class nevermind kinsa si mohamamd ba or waht" />
+    <MESSAGE value="mohammad ni siya kunuhay" />
+    <option name="LAST_COMMIT_MESSAGE" value="mohammad ni siya kunuhay" />
   </component>
 </project>
